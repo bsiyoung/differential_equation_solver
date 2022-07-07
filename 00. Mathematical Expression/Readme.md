@@ -1,8 +1,8 @@
 # Mathematical Expression
 ## Operations
-- +
-- -
-- *
+- '+'
+- '-'
+- '*'
 - /
 - ^
 ## Functions
